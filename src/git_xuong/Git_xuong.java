@@ -17,5 +17,5 @@ public class Git_xuong {
         // TODO code application logic here
         System.out.println("Ahihi đồ ngốc !!!");
     }
-    dunghb   
+      
 }
