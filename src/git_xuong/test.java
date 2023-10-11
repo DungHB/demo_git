@@ -34,6 +34,14 @@ public class test extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
         txtTuoi = new javax.swing.JTextField();
         txtDiaChi = new javax.swing.JTextField();
+<<<<<<< Updated upstream
+=======
+        btnDelete = new javax.swing.JButton();
+        btnUpdate = new javax.swing.JButton();
+        btnadd = new javax.swing.JButton();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        jTable1 = new javax.swing.JTable();
+>>>>>>> Stashed changes
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
